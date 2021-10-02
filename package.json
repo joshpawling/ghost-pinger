@@ -1,0 +1,19 @@
+{
+  "name": "ghost-pinger",
+  "version": "0.1.0",
+  "description": "just calls out the person who tried to ghost ping in a channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshpawling/ghost-pinger.git"
+  },
+  "author": "joshua pawling",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joshpawling/ghost-pinger/issues"
+  },
+  "homepage": "https://github.com/joshpawling/ghost-pinger#readme"
+}
